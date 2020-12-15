@@ -1,0 +1,13 @@
+C:\Users\PhilipJensen\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.exe
+C:\Users\PhilipJensen\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.deps.json
+C:\Users\PhilipJensen\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.runtimeconfig.json
+C:\Users\PhilipJensen\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.runtimeconfig.dev.json
+C:\Users\PhilipJensen\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.dll
+C:\Users\PhilipJensen\source\repos\ProducerConsumer\ProducerConsumer\bin\Debug\netcoreapp3.1\ProducerConsumer.pdb
+C:\Users\PhilipJensen\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.csprojAssemblyReference.cache
+C:\Users\PhilipJensen\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.AssemblyInfoInputs.cache
+C:\Users\PhilipJensen\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.AssemblyInfo.cs
+C:\Users\PhilipJensen\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.csproj.CoreCompileInputs.cache
+C:\Users\PhilipJensen\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.dll
+C:\Users\PhilipJensen\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.pdb
+C:\Users\PhilipJensen\source\repos\ProducerConsumer\ProducerConsumer\obj\Debug\netcoreapp3.1\ProducerConsumer.genruntimeconfig.cache
